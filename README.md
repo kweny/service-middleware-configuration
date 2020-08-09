@@ -1,1 +1,1 @@
-# service-middleware-configuration
+# middleware-configuration
